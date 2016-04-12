@@ -1,0 +1,410 @@
+Date of Scraping,University,Department,Course Number,Course Title,Prerequisite
+04/09/2016,Stanford,Computer Science,CS1C,Introduction to Computing at Stanford,
+04/09/2016,Stanford,Computer Science,CS1U,Practical Unix,
+04/09/2016,Stanford,Computer Science,CS2C,Introduction to Media Production,
+04/09/2016,Stanford,Computer Science,CS9,Problem-Solving for the CS Technical Interview,CS106B
+04/09/2016,Stanford,Computer Science,CS10SC,Great Ideas in Computer Science,
+04/09/2016,Stanford,Computer Science,CS22A,The Social & Economic Impact of Artificial Intelligence,
+04/09/2016,Stanford,Computer Science,CS27,Literature and Social Online Learning,
+04/09/2016,Stanford,Computer Science,CS29N,Computational Decision Making,
+04/09/2016,Stanford,Computer Science,CS42,Callback Me Maybe: Contemporary Javascript,CS107
+04/09/2016,Stanford,Computer Science,CS44N,Computational Thinking and Systems in the Real-World,
+04/09/2016,Stanford,Computer Science,CS45N,Computers and Photography: From Capture to Sharing,
+04/09/2016,Stanford,Computer Science,CS46N,"Big Data, Big Discoveries, Big Fallacies",
+04/09/2016,Stanford,Computer Science,CS54N,Great Ideas in Computer Science,
+04/09/2016,Stanford,Computer Science,CS74N,Digital Dilemmas,
+04/09/2016,Stanford,Computer Science,CS75N,"Cell Phones, Sensors, and You",
+04/09/2016,Stanford,Computer Science,CS90SI,CS + Social Good: Using Web Technologies to Change the World,106B
+04/09/2016,Stanford,Computer Science,CS91SI,Digital Canvas: Intro to Visual Design on the Web,
+04/09/2016,Stanford,Computer Science,CS92SI,Hap,106A
+04/09/2016,Stanford,Computer Science,CS101,Introduction to Computing Principles,
+04/09/2016,Stanford,Computer Science,CS102,"Big Data: Tools and Techniques, Discoveries and Pitfalls",CS106A
+04/09/2016,Stanford,Computer Science,CS103,Mathematical Foundations of Computing,106A
+04/09/2016,Stanford,Computer Science,CS103A,Mathematical Problem-solving Strategies,
+04/09/2016,Stanford,Computer Science,CS105,Introduction to Computers,
+04/09/2016,Stanford,Computer Science,CS106A,Programming Methodology,
+04/09/2016,Stanford,Computer Science,CS106B,Programming Abstractions,106A
+04/09/2016,Stanford,Computer Science,CS106L,Standard C++ Programming Laboratory,106B; 106X
+04/09/2016,Stanford,Computer Science,CS106X,Programming Abstractions (Accelerated), 106A
+04/09/2016,Stanford,Computer Science,CS107,Computer Organization and Systems,106B
+04/09/2016,Stanford,Computer Science,CS107E,Computer Systems from the Ground Up,106B
+04/09/2016,Stanford,Computer Science,CS108,Object-Oriented Systems Design,107
+04/09/2016,Stanford,Computer Science,CS109,Introduction to Probability for Computer Scientists,103; 106B;MATH51;CME100
+04/09/2016,Stanford,Computer Science,CS109L,Statistical Computing with R Laboratory,CS109
+04/09/2016,Stanford,Computer Science,CS110,Principles of Computer Systems,107
+04/09/2016,Stanford,Computer Science,CS123,Programming Your Personal Robot,CS 106
+04/09/2016,Stanford,Computer Science,CS124,From Languages to Information,CS103;CS107;CS109
+04/09/2016,Stanford,Computer Science,CS131,Computer Vision: Foundations and Applications,
+04/09/2016,Stanford,Computer Science,CS140,Operating Systems and Systems Programming,CS110
+04/09/2016,Stanford,Computer Science,CS142,Web Applications,CS107;CS108
+04/09/2016,Stanford,Computer Science,CS143,Compilers,103; 103B; 107
+04/09/2016,Stanford,Computer Science,CS144,Introduction to Computer Networking,CS110
+04/09/2016,Stanford,Computer Science,CS145,Introduction to Databases,103; 107
+04/09/2016,Stanford,Computer Science,CS147,Introduction to Human-Computer Interaction Design,106B
+04/09/2016,Stanford,Computer Science,CS148,Introduction to Computer Graphics and Imaging,CS107;MATH51
+04/09/2016,Stanford,Computer Science,CS154,Introduction to Automata and Complexity Theory,CS103; 103B
+04/09/2016,Stanford,Computer Science,CS155,Computer and Network Security,110
+04/09/2016,Stanford,Computer Science,CS157,Logic and Automated Reasoning,103; 103B
+04/09/2016,Stanford,Computer Science,CS161,Design and Analysis of Algorithms,103; 103B; 109;STATS116
+04/09/2016,Stanford,Computer Science,CS166,Data Structures,CS107;CS161
+04/09/2016,Stanford,Computer Science,CS167,Readings in Algorithms,CS161
+04/09/2016,Stanford,Computer Science,CS168,The Modern Algorithmic Toolbox,CS107;CS161
+04/09/2016,Stanford,Computer Science,CS170,"Stanford Laptop Orchestra: Composition, Coding, and Performance",
+04/09/2016,Stanford,Computer Science,CS173,A Computational Tour of the Human Genome,CS107
+04/09/2016,Stanford,Computer Science,CS181,"Computers, Ethics, and Public Policy",106B
+04/09/2016,Stanford,Computer Science,CS181W,"Computers, Ethics, and Public Policy",
+04/09/2016,Stanford,Computer Science,CS183C,Technology-enabled Blitzscaling,
+04/09/2016,Stanford,Computer Science,CS183E,Effective Leadership in High-Tech,
+04/09/2016,Stanford,Computer Science,CS190,Software Design Studio,CS140
+04/09/2016,Stanford,Computer Science,CS191,Senior Project,
+04/09/2016,Stanford,Computer Science,CS191W,Writing Intensive Senior Project,
+04/09/2016,Stanford,Computer Science,CS192,Programming Service Project,
+04/09/2016,Stanford,Computer Science,CS193A,Android Programming,106B; 106B
+04/09/2016,Stanford,Computer Science,CS193C,Client-Side Internet Technologies, 106A
+04/09/2016,Stanford,Computer Science,CS193P,iPhone and iPad Application Programming, 106B
+04/09/2016,Stanford,Computer Science,CS193W,Apple Watch & TV Programming,CS193P
+04/09/2016,Stanford,Computer Science,CS194,Software Project,CS110;CS161
+04/09/2016,Stanford,Computer Science,CS194H,User Interface Design Project,CS147
+04/09/2016,Stanford,Computer Science,CS194W,Software Project,
+04/09/2016,Stanford,Computer Science,CS196,Computer Consulting,1C
+04/09/2016,Stanford,Computer Science,CS198,Teaching Computer Science,
+04/09/2016,Stanford,Computer Science,CS198B,Additional Topics in Teaching Computer Science,CS198
+04/09/2016,Stanford,Computer Science,CS199,Independent Work,
+04/09/2016,Stanford,Computer Science,CS199P,Independent Work,
+04/09/2016,Stanford,Computer Science,CS202,Law for Computer Science Professionals,
+04/09/2016,Stanford,Computer Science,CS204,Legal Informatics,
+04/09/2016,Stanford,Computer Science,CS205A,"Mathematical Methods for Robotics, Vision, and Graphics",106B;MATH51
+04/09/2016,Stanford,Computer Science,CS205B,"Mathematical Methods for Fluids, Solids, and Interfaces",205A
+04/09/2016,Stanford,Computer Science,CS210A,Software Project Experience with Corporate Partners,CS109; 110
+04/09/2016,Stanford,Computer Science,CS210B,Software Project Experience with Corporate Partners,CS210A
+04/09/2016,Stanford,Computer Science,CS210L,Introducing Software through Video Stories,
+04/09/2016,Stanford,Computer Science,CS211,Content Creation in Virtual Reality,CS107
+04/09/2016,Stanford,Computer Science,CS221,Artificial Intelligence: Principles and Techniques,CS103;CS 103B;CS106B;CS106X;CS107;CS109
+04/09/2016,Stanford,Computer Science,CS223A,Introduction to Robotics,
+04/09/2016,Stanford,Computer Science,CS224M,Multi-Agent Systems,
+04/09/2016,Stanford,Computer Science,CS224N,Natural Language Processing,CS124;CS121;221
+04/09/2016,Stanford,Computer Science,CS224S,Spoken Language Processing,CS124; 221; 224N; 229
+04/09/2016,Stanford,Computer Science,CS224U,Natural Language Understanding,LINGUIST180;CS124;CS224N;CS224S;CS221;LINGUIST130A;CS157;PHIL150
+04/09/2016,Stanford,Computer Science,CS224W,Social Information and Network Analysis,
+04/09/2016,Stanford,Computer Science,CS225A,Experimental Robotics,223A
+04/09/2016,Stanford,Computer Science,CS225B,Robot Programming Laboratory, 106B; 106X; 205
+04/09/2016,Stanford,Computer Science,CS227B,General Game Playing,
+04/09/2016,Stanford,Computer Science,CS228,Probabilistic Graphical Models: Principles and Techniques,
+04/09/2016,Stanford,Computer Science,CS229,Machine Learning,
+04/09/2016,Stanford,Computer Science,CS229T,Statistical Learning Theory,STATS315A;CS229
+04/09/2016,Stanford,Computer Science,CS231A,Computer Vision: From 3D Reconstruction to Recognition,
+04/09/2016,Stanford,Computer Science,CS231B,The Cutting Edge of Computer Vision,CS2223B
+04/09/2016,Stanford,Computer Science,CS231N,Convolutional Neural Networks for Visual Recognition,CS131;CS229;MATH21
+04/09/2016,Stanford,Computer Science,CS232,Digital Image Processing,
+04/09/2016,Stanford,Computer Science,CS233,The Shape of Data: Geometric and Topological Data Analysis, 161;CM103
+04/09/2016,Stanford,Computer Science,CS238,Decision Making under Uncertainty,
+04/09/2016,Stanford,Computer Science,CS239,Advanced Topics in Sequential Decision Making,AA228;CS238;CS221
+04/09/2016,Stanford,Computer Science,CS240,Advanced Topics in Operating Systems,140
+04/09/2016,Stanford,Computer Science,CS240H,Functional Systems in Haskell,CS106B; 106X
+04/09/2016,Stanford,Computer Science,CS241,Embedded Systems Workshop,CS107
+04/09/2016,Stanford,Computer Science,CS242,Programming Languages,107
+04/09/2016,Stanford,Computer Science,CS243,Program Analysis and Optimizations,103; 103B; 107
+04/09/2016,Stanford,Computer Science,CS244,Advanced Topics in Networking,144
+04/09/2016,Stanford,Computer Science,CS244B,Distributed Systems,CS144;CS249A
+04/09/2016,Stanford,Computer Science,CS244C,Readings and Projects in Distributed Systems,244B
+04/09/2016,Stanford,Computer Science,CS245,Database Systems Principles,145; 161
+04/09/2016,Stanford,Computer Science,CS246,Mining Massive Data Sets,CS107;CS145;CS109;STAT116
+04/09/2016,Stanford,Computer Science,CS246H,Mining Massive Data Sets Hadoop Lab,CS107
+04/09/2016,Stanford,Computer Science,CS247,Human-Computer Interaction Design Studio,147; 106B
+04/09/2016,Stanford,Computer Science,CS247L,Human Computer Interaction Technology Laboratory,247
+04/09/2016,Stanford,Computer Science,CS248,Interactive Computer Graphics,CS148
+04/09/2016,Stanford,Computer Science,CS249A,Object-Oriented Programming from a Modeling and Simulation Perspective, 106B; 107;107
+04/09/2016,Stanford,Computer Science,CS249B,Large-scale Software Development,
+04/09/2016,Stanford,Computer Science,CS251,Bitcoin and Crypto Currencies,CS110
+04/09/2016,Stanford,Computer Science,CS251P,Bitcoin & Crypto Currencies Lab,
+04/09/2016,Stanford,Computer Science,CS255,Introduction to Cryptography,
+04/09/2016,Stanford,Computer Science,CS261,Optimization and Algorithmic Paradigms,161
+04/09/2016,Stanford,Computer Science,CS262,Computational Genomics,161
+04/09/2016,Stanford,Computer Science,CS263,Algorithms for Modern Data Models,CS261
+04/09/2016,Stanford,Computer Science,CS265,Randomized Algorithms and Probabilistic Analysis,CS161;STAT 116
+04/09/2016,Stanford,Computer Science,CS267,Graph Algorithms,161
+04/09/2016,Stanford,Computer Science,CS270,"Modeling Biomedical Systems: Ontology, Terminology, Problem Solving",
+04/09/2016,Stanford,Computer Science,CS272,Introduction to Biomedical Informatics Research Methodology,BIOMEDIN210; 211; 214; 217
+04/09/2016,Stanford,Computer Science,CS273A,A Computational Tour of the Human Genome,
+04/09/2016,Stanford,Computer Science,CS274,Representations and Algorithms for Computational Molecular Biology,
+04/09/2016,Stanford,Computer Science,CS275,Translational Bioinformatics,CS106A
+04/09/2016,Stanford,Computer Science,CS275A,Symbolic Musical Information,
+04/09/2016,Stanford,Computer Science,CS275B,"Music Query, Analysis, and Style Simulation",253
+04/09/2016,Stanford,Computer Science,CS276,Information Retrieval and Web Search,CS107;CS109;CS161
+04/09/2016,Stanford,Computer Science,CS277,Experimental Haptics,
+04/09/2016,Stanford,Computer Science,CS279,Computational Biology: Structure and Organization of Biomolecules and Cells,106A
+04/09/2016,Stanford,Computer Science,CS294A,Research Project in Artificial Intelligence, 220
+04/09/2016,Stanford,Computer Science,CS294H,Research Project in Human-Computer Interaction,
+04/09/2016,Stanford,Computer Science,CS294S,Research Project in Software Systems and Security,CS103; 107
+04/09/2016,Stanford,Computer Science,CS294W,Writing Intensive Research Project in Computer Science,
+04/09/2016,Stanford,Computer Science,CS295,Software Engineering,108
+04/09/2016,Stanford,Computer Science,CS300,Departmental Lecture Series,
+04/09/2016,Stanford,Computer Science,CS309,Industrial Lectureships in Computer Science,
+04/09/2016,Stanford,Computer Science,CS309A,Cloud Computing,
+04/09/2016,Stanford,Computer Science,CS315A,Parallel Computer Architecture and Programming,EE282
+04/09/2016,Stanford,Computer Science,CS315B,Parallel Computing Research Project,
+04/09/2016,Stanford,Computer Science,CS316,Advanced Multi-Core Systems,EE180; 108B
+04/09/2016,Stanford,Computer Science,CS319,Topics in Digital Systems,
+04/09/2016,Stanford,Computer Science,CS325,Topics in Computational Sustainability,
+04/09/2016,Stanford,Computer Science,CS327A,Advanced Robotic Manipulation,223A
+04/09/2016,Stanford,Computer Science,CS328,Topics in Computer Vision,205; 223B
+04/09/2016,Stanford,Computer Science,CS329,Topics in Artificial Intelligence,
+04/09/2016,Stanford,Computer Science,CS331A,Advanced Reading in Computer Vision,
+04/09/2016,Stanford,Computer Science,CS331B,3D Representation and Recognition,
+04/09/2016,Stanford,Computer Science,CS334A,Convex Optimization I,EE263
+04/09/2016,Stanford,Computer Science,CS340,Topics in Computer Systems,
+04/09/2016,Stanford,Computer Science,CS341,Project in Mining Massive Data Sets,
+04/09/2016,Stanford,Computer Science,CS344,Topics in Computer Networks,CS144; 244
+04/09/2016,Stanford,Computer Science,CS344E,Advanced Wireless Networks,
+04/09/2016,Stanford,Computer Science,CS344G,Network Application Studio,
+04/09/2016,Stanford,Computer Science,CS346,Database System Implementation,145; 245
+04/09/2016,Stanford,Computer Science,CS347,Parallel and Distributed Data Management,
+04/09/2016,Stanford,Computer Science,CS348A,Computer Graphics: Geometric Modeling,
+04/09/2016,Stanford,Computer Science,CS348B,Computer Graphics: Image Synthesis Techniques,248
+04/09/2016,Stanford,Computer Science,CS349,Topics in Programming Systems,
+04/09/2016,Stanford,Computer Science,CS349C,Topics in Programming Systems: Readings in Distributed Systems,
+04/09/2016,Stanford,Computer Science,CS354,Topics in Circuit Complexity,CS254
+04/09/2016,Stanford,Computer Science,CS357,Advanced Topics in Formal Methods,256
+04/09/2016,Stanford,Computer Science,CS358,Topics in Programming Language Theory,154; 157; 258
+04/09/2016,Stanford,Computer Science,CS359,Topics in the Theory of Computation,
+04/09/2016,Stanford,Computer Science,CS364A,Algorithmic Game Theory,154N; 161
+04/09/2016,Stanford,Computer Science,CS367,Algebraic Graph Algorithms,CS154;CS161
+04/09/2016,Stanford,Computer Science,CS369,Topics in Analysis of Algorithms,
+04/09/2016,Stanford,Computer Science,CS369A,Topics in Analysis of Algorithms: Advanced Approximation Algorithms,
+04/09/2016,Stanford,Computer Science,CS369L,Theoretical Perspective on Machine Learning,
+04/09/2016,Stanford,Computer Science,CS371,Computational Biology in Four Dimensions,CS106A
+04/09/2016,Stanford,Computer Science,CS373,Statistical and Machine Learning Methods for Genomics,
+04/09/2016,Stanford,Computer Science,CS374,Algorithms in Biology,161; 262; 274;BIOCHEM 218
+04/09/2016,Stanford,Computer Science,CS376,Human-Computer Interaction Research,CS147;CS247
+04/09/2016,Stanford,Computer Science,CS377,Topics in Human-Computer Interaction,
+04/09/2016,Stanford,Computer Science,CS377D,Topics in Learning and Technology: d,
+04/09/2016,Stanford,Computer Science,CS377E,Designing Solutions to Global Grand Challenges,
+04/09/2016,Stanford,Computer Science,CS377U,Understanding Users,CS147; 193A;193P
+04/09/2016,Stanford,Computer Science,CS377W,HCI Issues in Wearable Computing,CS147;CS247
+04/09/2016,Stanford,Computer Science,CS379,Interdisciplinary Topics,
+04/09/2016,Stanford,Computer Science,CS390A,Curricular Practical Training,
+04/09/2016,Stanford,Computer Science,CS390B,Curricular Practical Training,
+04/09/2016,Stanford,Computer Science,CS390C,Curricular Practical Training,
+04/09/2016,Stanford,Computer Science,CS390P,Part-time Curricular Practical Training,
+04/09/2016,Stanford,Computer Science,CS390Q,Part-Time Curricular Practical Training,
+04/09/2016,Stanford,Computer Science,CS390R,Part-Time Curricular Practical Training,
+04/09/2016,Stanford,Computer Science,CS390S,Part-Time CPT,
+04/09/2016,Stanford,Computer Science,CS390T,Part-Time CPT,
+04/09/2016,Stanford,Computer Science,CS393,Computer Laboratory,
+04/09/2016,Stanford,Computer Science,CS395,Independent Database Project,
+04/09/2016,Stanford,Computer Science,CS399,Independent Project,
+04/09/2016,Stanford,Computer Science,CS399P,Independent Project,
+04/09/2016,Stanford,Computer Science,CS402,Beyond Bits and Atoms: Designing Technological Tools,
+04/09/2016,Stanford,Computer Science,CS402L,Beyond Bits and Atoms - Lab,
+04/09/2016,Stanford,Computer Science,CS424M,Learning Analytics and Computational Modeling in Social Science,
+04/09/2016,Stanford,Computer Science,CS431,High-Level Vision: Object Representation,
+04/09/2016,Stanford,Computer Science,CS448,Topics in Computer Graphics,
+04/09/2016,Stanford,Computer Science,CS448B,Data Visualization, 147; 148
+04/09/2016,Stanford,Computer Science,CS448H,"Topics in Computer Graphics: Domain-Specific Languages for Graphics, Imaging, and Beyond",
+04/09/2016,Stanford,Computer Science,CS448I,Computational Imaging and Display,
+04/09/2016,Stanford,Computer Science,CS448J,Concepts and Algorithms of Scientific and Visual Computing,MATH41;MATH42;CS103;CS205A
+04/09/2016,Stanford,Computer Science,CS448Z,Physically Based Animation and Sound,
+04/09/2016,Stanford,Computer Science,CS476A,"Music, Computing, Design I: Art of Design for Computer Music",
+04/09/2016,Stanford,Computer Science,CS476B,"Music, Computing, Design II: Virtual and Augmented Reality for Music",MUSIC256A;CS476A
+04/09/2016,Stanford,Computer Science,CS499,Advanced Reading and Research,
+04/09/2016,Stanford,Computer Science,CS499P,Advanced Reading and Research,
+04/09/2016,Stanford,Computer Science,CS546,Seminar on Liberation Technologies,
+04/09/2016,Stanford,Computer Science,CS547,Human-Computer Interaction Seminar,
+04/09/2016,Stanford,Computer Science,CS548,Internet and Distributed Systems Seminar,
+04/09/2016,Stanford,Computer Science,CS549,Human-Computer Interaction in the Real World,
+04/09/2016,Stanford,Computer Science,CS571,Surgical Robotics Seminar,
+04/09/2016,Stanford,Computer Science,CS801,TGR Project,
+04/09/2016,Stanford,Computer Science,CS802,TGR Dissertation,
+04/09/2016,Stanford,Electrical Engineering,EE10N,How Musical Instruments Work,
+04/09/2016,Stanford,Electrical Engineering,EE10SC,Mathematics of the Information Age,
+04/09/2016,Stanford,Electrical Engineering,EE14N,Things about Stuff,
+04/09/2016,Stanford,Electrical Engineering,EE15N,The Art and Science of Engineering Design,
+04/09/2016,Stanford,Electrical Engineering,EE17N,Engineering the Micro and Nano Worlds: From Chips to Genes,
+04/09/2016,Stanford,Electrical Engineering,EE21N,What is Nanotechnology?,
+04/09/2016,Stanford,Electrical Engineering,EE22N,Medical Imaging Systems,
+04/09/2016,Stanford,Electrical Engineering,EE23N,Imaging: From the Atom to the Universe,
+04/09/2016,Stanford,Electrical Engineering,EE27N,Electronics Rocks,
+04/09/2016,Stanford,Electrical Engineering,EE29N,Electromagnetic Sensors for the Internet of Things,
+04/09/2016,Stanford,Electrical Engineering,EE41,Physics of Electrical Engineering,PHYSICS43
+04/09/2016,Stanford,Electrical Engineering,EE42,Introductory Engineering Electromagnetics,
+04/09/2016,Stanford,Electrical Engineering,EE46,Engineering For Good: Save the World and Have Fun Doing It,ENGR40;EE122A;CS106B
+04/09/2016,Stanford,Electrical Engineering,EE47,Press Play: Interactive Device Design,CS106A
+04/09/2016,Stanford,Electrical Engineering,EE60N,Man versus Nature: Coping with Disasters Using Space Technology,
+04/09/2016,Stanford,Electrical Engineering,EE65,Modern Physics for Engineers,
+04/09/2016,Stanford,Electrical Engineering,EE92A,Making and Breaking Things,
+04/09/2016,Stanford,Electrical Engineering,EE100,The Electrical Engineering Profession,
+04/09/2016,Stanford,Electrical Engineering,EE101A,Circuits I,ENGR40;ENGR40M
+04/09/2016,Stanford,Electrical Engineering,EE101B,Circuits II,EE101A;EE102A
+04/09/2016,Stanford,Electrical Engineering,EE102A,Signal Processing and Linear Systems I,MATH53;CME102
+04/09/2016,Stanford,Electrical Engineering,EE102B,Signal Processing and Linear Systems II,EE102A
+04/09/2016,Stanford,Electrical Engineering,EE103,Introduction to Matrix Methods,MATH51;CME100
+04/09/2016,Stanford,Electrical Engineering,EE107,Embedded Networked Systems,EE102A;ENGR40M
+04/09/2016,Stanford,Electrical Engineering,EE108,Digital System Design,
+04/09/2016,Stanford,Electrical Engineering,EE109,Digital Systems Design Lab,108B;CS106B
+04/09/2016,Stanford,Electrical Engineering,EE114,Fundamentals of Analog Integrated Circuit Design,101B
+04/09/2016,Stanford,Electrical Engineering,EE116,Semiconductor Device Physics,
+04/09/2016,Stanford,Electrical Engineering,EE118,Introduction to Mechatronics,ENGR40;CS 106
+04/09/2016,Stanford,Electrical Engineering,EE122A,Analog Circuits Laboratory,
+04/09/2016,Stanford,Electrical Engineering,EE122B,Introduction to Biomedical Electronics,EE122A;EE122A
+04/09/2016,Stanford,Electrical Engineering,EE124,Introduction to Neuroelectrical Engineering,EE101A;EE102A
+04/09/2016,Stanford,Electrical Engineering,EE133,Analog Communications Design Laboratory,EE101B
+04/09/2016,Stanford,Electrical Engineering,EE134,Introduction to Photonics,EE42;EE102A
+04/09/2016,Stanford,Electrical Engineering,EE136,Introduction to Nanophotonics and Nanostructures,EE42;EE65
+04/09/2016,Stanford,Electrical Engineering,EE142,Engineering Electromagnetics,
+04/09/2016,Stanford,Electrical Engineering,EE151,Sustainable Energy Systems,
+04/09/2016,Stanford,Electrical Engineering,EE153,Power Electronics,EE101B
+04/09/2016,Stanford,Electrical Engineering,EE155,Green Electronics,
+04/09/2016,Stanford,Electrical Engineering,EE168,Introduction to Digital Image Processing,
+04/09/2016,Stanford,Electrical Engineering,EE169,Introduction to Bioimaging,EE102A;EE102B
+04/09/2016,Stanford,Electrical Engineering,EE178,Probabilistic Systems Analysis,
+04/09/2016,Stanford,Electrical Engineering,EE179,Analog and Digital Communication Systems,102A
+04/09/2016,Stanford,Electrical Engineering,EE180,Digital Systems Architecture,CS107;EE108
+04/09/2016,Stanford,Electrical Engineering,EE190,Special Studies or Projects in Electrical Engineering,
+04/09/2016,Stanford,Electrical Engineering,EE191,Special Studies and Reports in Electrical Engineering,
+04/09/2016,Stanford,Electrical Engineering,EE191A,Special Studies and Reports in Electrical Engineering,
+04/09/2016,Stanford,Electrical Engineering,EE191W,Special Studies and Reports in Electrical Engineering,
+04/09/2016,Stanford,Electrical Engineering,EE192X,Stanford's Little Box Challenge,
+04/09/2016,Stanford,Electrical Engineering,EE202,Electrical Engineering in Biology and Medicine, 101B
+04/09/2016,Stanford,Electrical Engineering,EE203,The Entrepreneurial Engineer,
+04/09/2016,Stanford,Electrical Engineering,EE204,Business Management for Electrical Engineers and Computer Scientists,
+04/09/2016,Stanford,Electrical Engineering,EE204S,Business Management for Electrical Engineers and Computer Scientists,
+04/09/2016,Stanford,Electrical Engineering,EE212,Integrated Circuit Fabrication Processes,
+04/09/2016,Stanford,Electrical Engineering,EE213,Digital MOS Integrated Circuits,EE101B;EE108
+04/09/2016,Stanford,Electrical Engineering,EE214A,Fundamentals of Analog Integrated Circuit Design,101B
+04/09/2016,Stanford,Electrical Engineering,EE214B,Advanced Analog Integrated Circuit Design,EE114;214A
+04/09/2016,Stanford,Electrical Engineering,EE216,Principles and Models of Semiconductor Devices,116
+04/09/2016,Stanford,Electrical Engineering,EE222,Applied Quantum Mechanics I,MATH52; 53;PHYSICS65;PHYSICS43; 45
+04/09/2016,Stanford,Electrical Engineering,EE223,Applied Quantum Mechanics II,222
+04/09/2016,Stanford,Electrical Engineering,EE225,Biochips and Medical Imaging,
+04/09/2016,Stanford,Electrical Engineering,EE228,Basic Physics for Solid State Electronics,
+04/09/2016,Stanford,Electrical Engineering,EE230,Biophotonics: Light in Biology,
+04/09/2016,Stanford,Electrical Engineering,EE233,Analog Communications Design Laboratory,EE101B
+04/09/2016,Stanford,Electrical Engineering,EE234,Photonics Laboratory,EE242
+04/09/2016,Stanford,Electrical Engineering,EE236A,Modern Optics,EE142
+04/09/2016,Stanford,Electrical Engineering,EE236AL,MODERN OPTICS - LABORATORY,
+04/09/2016,Stanford,Electrical Engineering,EE236B,Guided Waves,EE236A;EE242
+04/09/2016,Stanford,Electrical Engineering,EE236C,Lasers,EE236B
+04/09/2016,Stanford,Electrical Engineering,EE237,Solar Energy Conversion,
+04/09/2016,Stanford,Electrical Engineering,EE242,Electromagnetic Waves,EE142;PHYSICS120
+04/09/2016,Stanford,Electrical Engineering,EE243,Semiconductor Optoelectronic Devices,EE216
+04/09/2016,Stanford,Electrical Engineering,EE247,Introduction to Optical Fiber Communications,EE102A;EE142
+04/09/2016,Stanford,Electrical Engineering,EE251,High-Frequency Circuit Design Laboratory,EE251;EE 314
+04/09/2016,Stanford,Electrical Engineering,EE252,Antennas,EE142;PHYSICS120
+04/09/2016,Stanford,Electrical Engineering,EE253,Power Electronics,EE101B
+04/09/2016,Stanford,Electrical Engineering,EE254,Advanced Topics in Power Electronics,EE153;253
+04/09/2016,Stanford,Electrical Engineering,EE255,Green Electronics,
+04/09/2016,Stanford,Electrical Engineering,EE256,Numerical Electromagnetics,242
+04/09/2016,Stanford,Electrical Engineering,EE257,Applied Optimization Laboratory (Geophys 258),
+04/09/2016,Stanford,Electrical Engineering,EE261,The Fourier Transform and Its Applications, 102A
+04/09/2016,Stanford,Electrical Engineering,EE262,Two-Dimensional Imaging,EE261
+04/09/2016,Stanford,Electrical Engineering,EE263,Introduction to Linear Dynamical Systems,MATH104;EE102B
+04/09/2016,Stanford,Electrical Engineering,EE264,Digital Signal Processing,EE102A;EE102B
+04/09/2016,Stanford,Electrical Engineering,EE266,Stochastic Control,EE263;EE178
+04/09/2016,Stanford,Electrical Engineering,EE267,Virtual Reality,
+04/09/2016,Stanford,Electrical Engineering,EE271,Introduction to VLSI Systems,101A; 108A; 108B
+04/09/2016,Stanford,Electrical Engineering,EE272,Design Projects in VLSI Systems,
+04/09/2016,Stanford,Electrical Engineering,EE273,Digital Systems Engineering,EE101A;EE108A
+04/09/2016,Stanford,Electrical Engineering,EE278,Introduction to Statistical Signal Processing,EE178;EE102A;EE261
+04/09/2016,Stanford,Electrical Engineering,EE279,Introduction to Digital Communication,179; 261; 178; 278
+04/09/2016,Stanford,Electrical Engineering,EE282,Computer Systems Architecture,EE108B
+04/09/2016,Stanford,Electrical Engineering,EE284,Introduction to Computer Networks,
+04/09/2016,Stanford,Electrical Engineering,EE290A,Curricular Practical Training for Electrical Engineers, 290B;EE290A; 290C;EE290B; 290D;EE290C
+04/09/2016,Stanford,Electrical Engineering,EE290B,Curricular Practical Training for Electrical Engineers, 290B;EE290A; 290C;EE290B; 290D;EE290C
+04/09/2016,Stanford,Electrical Engineering,EE290C,Curricular Practical Training for Electrical Engineers, 290B;EE290A; 290C;EE290B; 290D;EE290C
+04/09/2016,Stanford,Electrical Engineering,EE290D,Curricular Practical Training for Electrical Engineers, 290B;EE290A; 290C;EE290B; 290D;EE290C
+04/09/2016,Stanford,Electrical Engineering,EE292B,Micro and Nanoscale Biosensing for Molecular Diagnostics,
+04/09/2016,Stanford,Electrical Engineering,EE292C,Chemical Vapor Deposition and Epitaxy for Integrated Circuits and Nanostructures,
+04/09/2016,Stanford,Electrical Engineering,EE292G,"NanoBioTechnology, Nanoscience and Sensing",
+04/09/2016,Stanford,Electrical Engineering,EE292H,"Engineering, Entrepreneurship & Climate Change",
+04/09/2016,Stanford,Electrical Engineering,EE292I,Insanely Great Products: How do they get built?,
+04/09/2016,Stanford,Electrical Engineering,EE292K,Intelligent Energy Projects,
+04/09/2016,Stanford,Electrical Engineering,EE292L,Nanomanufacturing,
+04/09/2016,Stanford,Electrical Engineering,EE292M,Parallel Processors Beyond Multi-Core Processing,EE108B;EE282
+04/09/2016,Stanford,Electrical Engineering,EE292P,Power Management Integrated Circuits,EE214A
+04/09/2016,Stanford,Electrical Engineering,EE292T,SmartGrids and Advanced Power Systems Seminar,
+04/09/2016,Stanford,Electrical Engineering,EE292X,Stanford's Little Box Challenge,
+04/09/2016,Stanford,Electrical Engineering,EE293A,"Solar Cells, Fuel Cells, and Batteries: Materials for the Energy Solution",
+04/09/2016,Stanford,Electrical Engineering,EE293B,Fundamentals of Energy Processes,
+04/09/2016,Stanford,Electrical Engineering,EE300,Master's Thesis and Thesis Research,
+04/09/2016,Stanford,Electrical Engineering,EE303,Autonomous Implantable Systems,EE252
+04/09/2016,Stanford,Electrical Engineering,EE304,Neuromorphics: Brains in Silicon,EE102A;EE108;EE114
+04/09/2016,Stanford,Electrical Engineering,EE308,Advanced Circuit Techniques,EE251;EE314A
+04/09/2016,Stanford,Electrical Engineering,EE309,Semiconductor Memory Devices and Technology,
+04/09/2016,Stanford,Electrical Engineering,EE310,"SystemX: Ubiquitous Sensing, Computing and Communication Seminar",
+04/09/2016,Stanford,Electrical Engineering,EE311,Advanced Integrated Circuits Technology,EE212;EE216
+04/09/2016,Stanford,Electrical Engineering,EE314A,RF Integrated Circuit Design,EE214B
+04/09/2016,Stanford,Electrical Engineering,EE314B,Advanced RF Integrated Circuit Design,EE314A
+04/09/2016,Stanford,Electrical Engineering,EE315,Analog-Digital Interface Circuits,EE214B
+04/09/2016,Stanford,Electrical Engineering,EE316,Advanced VLSI Devices,212; 216
+04/09/2016,Stanford,Electrical Engineering,EE319,Advanced Nanoelectronic Devices and Technology,216; 316
+04/09/2016,Stanford,Electrical Engineering,EE320,Nanoelectronics,EE222;EE216;EE316
+04/09/2016,Stanford,Electrical Engineering,EE323,Energy in Electronics,
+04/09/2016,Stanford,Electrical Engineering,EE327,Properties of Semiconductor Materials,EE216
+04/09/2016,Stanford,Electrical Engineering,EE328,Physics of Advanced Semiconductor Devices,216
+04/09/2016,Stanford,Electrical Engineering,EE329,The Electronic Structure of Surfaces and Interfaces,PHYSICS70;MATSCI199;209
+04/09/2016,Stanford,Electrical Engineering,EE331,Biophotonics: Light in Medicine and Biology,
+04/09/2016,Stanford,Electrical Engineering,EE332,Laser Dynamics,236C
+04/09/2016,Stanford,Electrical Engineering,EE334,Micro and Nano Optical Device Design,EE242
+04/09/2016,Stanford,Electrical Engineering,EE336,Nanophotonics, 242
+04/09/2016,Stanford,Electrical Engineering,EE340,Optical Micro- and Nano-Cavities,
+04/09/2016,Stanford,Electrical Engineering,EE346,Introduction to Nonlinear Optics,242; 236C
+04/09/2016,Stanford,Electrical Engineering,EE348,Advanced Optical Fiber Communications,247
+04/09/2016,Stanford,Electrical Engineering,EE349,Advanced Topics in Nano-Optics and Plasmonics,EE242
+04/09/2016,Stanford,Electrical Engineering,EE355,Imaging Radar and Applications,EE261
+04/09/2016,Stanford,Electrical Engineering,EE356A,Resonant Converters,EE153;EE253
+04/09/2016,Stanford,Electrical Engineering,EE356B,Magnetics Design in Power Electronics,EE153;EE253
+04/09/2016,Stanford,Electrical Engineering,EE359,Wireless Communications,279
+04/09/2016,Stanford,Electrical Engineering,EE360,Multiuser Wireless Systems and Networks,EE359
+04/09/2016,Stanford,Electrical Engineering,EE364A,Convex Optimization I,EE263
+04/09/2016,Stanford,Electrical Engineering,EE364B,Convex Optimization II,364A
+04/09/2016,Stanford,Electrical Engineering,EE367,Computational Imaging and Display,
+04/09/2016,Stanford,Electrical Engineering,EE368,Digital Image Processing,
+04/09/2016,Stanford,Electrical Engineering,EE369A,Medical Imaging Systems I,EE261
+04/09/2016,Stanford,Electrical Engineering,EE369B,Medical Imaging Systems II,EE261
+04/09/2016,Stanford,Electrical Engineering,EE369C,Medical Image Reconstruction,369B
+04/09/2016,Stanford,Electrical Engineering,EE371,Advanced VLSI Circuit Design,EE213;EE271
+04/09/2016,Stanford,Electrical Engineering,EE373A,Adaptive Signal Processing,
+04/09/2016,Stanford,Electrical Engineering,EE376A,Information Theory,EE178;STATS116
+04/09/2016,Stanford,Electrical Engineering,EE376B,Network Information Theory,EE376A
+04/09/2016,Stanford,Electrical Engineering,EE376C,Universal Schemes in Information Theory,EE278;EE376A;EE376B
+04/09/2016,Stanford,Electrical Engineering,EE376D,Wireless Information Theory,EE376A
+04/09/2016,Stanford,Electrical Engineering,EE377,Information Theory and Statistics,EE376A;STATS300A
+04/09/2016,Stanford,Electrical Engineering,EE378A,Statistical Signal Processing,EE278
+04/09/2016,Stanford,Electrical Engineering,EE378B,"Inference, Estimation, and Information Processing",EE278;EE263
+04/09/2016,Stanford,Electrical Engineering,EE379,Digital Communication,EE102B;EE278
+04/09/2016,Stanford,Electrical Engineering,EE380,Colloquium on Computer Systems,
+04/09/2016,Stanford,Electrical Engineering,EE382C,Interconnection Networks,282
+04/09/2016,Stanford,Electrical Engineering,EE384A,Internet Routing Protocols and Standards,EE284;CS144
+04/09/2016,Stanford,Electrical Engineering,EE384B,Multimedia Communication over the Internet,284;CS144
+04/09/2016,Stanford,Electrical Engineering,EE384C,Wireless Local and Wide Area Networks,EE284;CS 244A
+04/09/2016,Stanford,Electrical Engineering,EE384E,Networked Wireless Systems,EE284
+04/09/2016,Stanford,Electrical Engineering,EE384S,Performance Engineering of Computer Systems & Networks,
+04/09/2016,Stanford,Electrical Engineering,EE384X,Packet Switch Architectures,EE284;CS 244A
+04/09/2016,Stanford,Electrical Engineering,EE385A,Robust and Testable Systems Seminar,
+04/09/2016,Stanford,Electrical Engineering,EE386,Robust System Design,EE108;EE180;EE282
+04/09/2016,Stanford,Electrical Engineering,EE387,Algebraic Error Control Codes,
+04/09/2016,Stanford,Electrical Engineering,EE388,Modern Coding Theory,376A
+04/09/2016,Stanford,Electrical Engineering,EE390,Special Studies or Projects in Electrical Engineering,
+04/09/2016,Stanford,Electrical Engineering,EE391,Special Studies and Reports in Electrical Engineering,
+04/09/2016,Stanford,Electrical Engineering,EE392AA,Advanced Digital Transmission,EE379
+04/09/2016,Stanford,Electrical Engineering,EE392B,Industrial Internet of Things,
+04/09/2016,Stanford,Electrical Engineering,EE392D,Designing Civic Technologies with Virtual Reality,
+04/09/2016,Stanford,Electrical Engineering,EE392E,VLSI Signal Processing,EE102B;EE108A;EE264;EE271
+04/09/2016,Stanford,Electrical Engineering,EE392I,Seminar on Trends in Computing and Communications,
+04/09/2016,Stanford,Electrical Engineering,EE392K,Analysis and Modeling of Big Data from Things That Move,
+04/09/2016,Stanford,Electrical Engineering,EE392L,Modern Cellular Communication Systems,
+04/09/2016,Stanford,Electrical Engineering,EE392Q,Parallel Processors Beyond Multicore Processing,
+04/09/2016,Stanford,Electrical Engineering,EE392T,Seminar in Chip Test and Debug,271; 371
+04/09/2016,Stanford,Electrical Engineering,EE392X,Power Electronics Control and Energy-Aware Design,
+04/09/2016,Stanford,Electrical Engineering,EE395,Electrical Engineering Instruction: Practice Teaching,
+04/09/2016,Stanford,Electrical Engineering,EE398,Image and Video Compression,EE261;EE278
+04/09/2016,Stanford,Electrical Engineering,EE400,Thesis and Thesis Research,
+04/09/2016,Stanford,Electrical Engineering,EE402A,Topics in International Technology Management,
+04/09/2016,Stanford,Electrical Engineering,EE402T,Entrepreneurship in Asian High-Tech Industries,
+04/09/2016,Stanford,Electrical Engineering,EE410,Integrated Circuit Fabrication Laboratory,EE212;EE216
+04/09/2016,Stanford,Electrical Engineering,EE412,Advanced Nanofabrication Laboratory,ENGR341;EE410
+04/09/2016,Stanford,Electrical Engineering,EE414,RF Transceiver Design Laboratory,EE314A;EE251;EE251
+04/09/2016,Stanford,Electrical Engineering,EE464,Semidefinite Optimization and Algebraic Techniques,EE364A
+04/09/2016,Stanford,Electrical Engineering,EE469B,RF Pulse Design for Magnetic Resonance Imaging,369B
+04/09/2016,Stanford,Electrical Engineering,EE801,TGR Project,
+04/09/2016,Stanford,Electrical Engineering,EE802,TGR Dissertation,

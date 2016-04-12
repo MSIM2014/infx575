@@ -1,0 +1,1 @@
+LOAD DATA INFILE '/home/ubuntu/assignments/assign1/wcao-INFX575-PS1_dataset.csv' REPLACE INTO TABLE assignments.course_catalogue FIELDS TERMINATED BY ',' ENCLOSED BY '"' IGNORE 1 LINES (@var1, university, department, course_number, course_title, prerequisite) set date_of_scrape = STR_TO_DATE(@var1, '%m/%d/%Y');
